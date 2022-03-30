@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <a @click="loginSpotify" :href="frameSrc" class="btn btn-primary">Log in with Spotify</a><br>
+    <a @click="loginSpotify" :href="frameSrc" >Log in with Spotify</a><br>
   </div>
 </template>
 
